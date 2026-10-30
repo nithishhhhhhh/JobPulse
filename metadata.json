@@ -1,0 +1,6 @@
+{
+  "name": "JobPulse Tracker",
+  "description": "Clean, responsive single-page Job Application Tracker with drag-and-drop Kanban board, follow-up actions table, and local persistence.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
